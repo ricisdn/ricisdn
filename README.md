@@ -39,6 +39,6 @@
 - Database: SQL
 - Version Control : Git
 
-### :fire: Most Used Languages :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/ricisdn/github-readme-stats)
+</br>
+## :fire: Most Used Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dark&background=000000)](https://github.com/ricisdn/github-readme-stats)
