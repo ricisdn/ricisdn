@@ -39,7 +39,6 @@
 - Database: SQL
 - Version Control : Git
 
-<h1>
+<hr>
 ## :fire: Most Used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dark&background=000000)](https://github.com/ricisdn/github-readme-stats)
-</h1>
