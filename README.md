@@ -38,3 +38,6 @@
 - Web Development : HTML, CSS, JavaScript
 - Database: SQL
 - Version Control : Git
+
+### :fire: Most Used Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/ricisdn/github-readme-stats)
