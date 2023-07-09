@@ -45,5 +45,7 @@
 
 ## 🚀 Total Commits </br>
 
-[![Total Commits](https://github-readme-stats.vercel.app/api?username=ricisdn&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)](https://github.com/ricisdn)
+## 📊 Total Commits per Month
+
+[![Total Commits per Month](https://github-readme-stats.vercel.app/api/wakatime?username=ricisdn&layout=compact&theme=dark)](https://github.com/ricisdn)
 
