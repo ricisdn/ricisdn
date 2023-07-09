@@ -40,5 +40,5 @@
 - Version Control : Git
 
 
-## :fire: Most Used Languages :
+## :fire: Most Used Languages : </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dark&background=000000)](https://github.com/ricisdn/github-readme-stats)
