@@ -41,7 +41,7 @@
 
 ## 🔖 Most Used Languages : </br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricisdn&theme=dark&background=000000)](https://github.com/ricisdn/github-readme-stats)
 
 ## 🚀 Total Commits </br>
 
