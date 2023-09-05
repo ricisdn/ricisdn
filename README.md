@@ -46,6 +46,6 @@
 
 ## 🚀 Total Commits </br>
 
-[![Total Commits](https://github-readme-stats.vercel.app/api?username=ricisdn&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)](https://github.com/ricisdn)
+
 
 
