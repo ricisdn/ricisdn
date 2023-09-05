@@ -28,7 +28,7 @@
 
 - Information Systems Student
 - Final year student at Maranatha Christian University
-- Currently, participating Machine Learning Cohort at Bangkit Academy 2023
+- Currently, participating in the Web FullStack industry class at Gamelab. ID
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -41,7 +41,7 @@
 
 ## 🔖 Most Used Languages : </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricisdn&theme=dark&background=000000)](https://github.com/ricisdn/github-readme-stats)
+
 
 ## 🚀 Total Commits </br>
 
