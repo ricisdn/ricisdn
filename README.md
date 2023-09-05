@@ -40,12 +40,4 @@
 - Database: SQL
 - Version Control : Git </p>
 
-## 🔖 Most Used Languages : </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricisdn&theme=dark&background=000000)](https://github.com/ricisdn/github-readme-stats)
-
-## 🚀 Total Commits </br>
-
-[![Total Commits](https://github-readme-stats.vercel.app/api?username=ricisdn&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)](https://github.com/ricisdn)
-
 
